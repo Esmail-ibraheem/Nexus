@@ -1,0 +1,15 @@
+torch>=2.0.0
+torchvision
+triton>=2.0.0
+numpy>=1.20.0
+pandas
+matplotlib
+seaborn
+pynvml
+pytest
+black
+isort
+mypy
+tqdm
+scipy
+scikit-learn
