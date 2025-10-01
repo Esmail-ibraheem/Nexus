@@ -366,15 +366,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- NVIDIA for CUDA, Triton, and hardware support
+- NVIDIA for CUDA, Triton
 - PyTorch team for the deep learning framework
 - Research community for MoE innovations
 
-## 📧 Contact
+## **Issues**: [GitHub Issues](https://github.com/Esmail-ibraheem/mixture-of-experts/issues)
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/moe-gpu-scheduling/issues)
-- **Email**: your.email@example.com
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+
 
 ---
 
