@@ -4,7 +4,7 @@
 [![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![CUDA 12.0+](https://img.shields.io/badge/CUDA-12.0+-76B900.svg)](https://developer.nvidia.com/cuda-toolkit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Paper](https://img.shields.io/badge/arXiv-2401.00001-b31b1b.svg)](https://arxiv.org/abs/2401.00001)
+[![Paper](https://img.shields.io/badge/arXiv--b31b1b.svg)](https://arxiv.org/abs/)
 
 **A research-grade implementation of dynamic GPU resource allocation for Mixture of Experts models, achieving 2.3-2.4× throughput improvement and 35-45% energy efficiency gains.**
 
