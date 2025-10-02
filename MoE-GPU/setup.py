@@ -16,12 +16,12 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="moe-gpu-scheduling",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="ُEsmail  Gumaan",
+    author_email="esm.agumaan@gmail.com",
     description="Expert-Sliced GPU Scheduling for Mixture of Experts Models",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/moe-gpu-scheduling",
+    url="https://github.com/Esmail-ibraheem/Nexus",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -68,8 +68,8 @@ setup(
         "energy-efficiency",
     ],
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/moe-gpu-scheduling/issues",
-        "Source": "https://github.com/yourusername/moe-gpu-scheduling",
+        "Bug Reports": "https://github.com/Esmail-ibraheem/mixture-of-experts/issues",
+        "Source": "https://github.com/Esmail-ibraheem/Nexus",
         "Documentation": "https://github.com/yourusername/moe-gpu-scheduling/blob/main/README.md",
         "Paper": "https://github.com/yourusername/moe-gpu-scheduling/blob/main/paper/research_paper.md",
     },
