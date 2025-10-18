@@ -42,7 +42,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/moe-gpu-scheduling.git
+git clone https://github.com/Esmail-ibraheem/moe-gpu-scheduling.git
 cd moe-gpu-scheduling
 
 # Create virtual environment
