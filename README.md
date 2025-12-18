@@ -354,8 +354,7 @@ If you use this work in your research, please cite:
 ```bibtex
 @article{expert_sliced_gpu_2025,
   title={Expert-Sliced GPU Scheduling: Dynamic Resource Allocation for Mixture of Experts Models},
-  author={Your Name},
-  journal={arXiv preprint},
+  author={Esmail Gumaan},
   year={2025}
 }
 ```
